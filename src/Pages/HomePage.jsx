@@ -19,7 +19,7 @@ const HomePage =() =>{
         <h1 id="a">Welcome to Vivekanand College!</h1>
         <p id="f"></p>
        <h1> Admission At Vivekanand college </h1>
-       <p><b>Vivwkanand College </b>is permier educatitional institution dedicated to fosterig academic excellence,and holistic development
+       <p><b>Vivekanand College </b>is permier educatitional institution dedicated to fosterig academic excellence,and holistic development
        . Established in 1980, we have produly served gengration of students, empowering them to achieve their full potential!.</p>
        <p>
         At Vivekanand college , we belive in a vibrant learning enviornment that extend beyond textbook.our state-are facilities,experiened

@@ -1,3 +1,4 @@
+import ChatbotComponent from "./Components/Chatbot/ChatbotComponents";
 import AboutPage from "./Pages/AboutPage";
 import Contact from "./Pages/Contact";
 import Cources from "./Pages/Cources";
@@ -16,6 +17,7 @@ const App =() =>{
       
     </Routes>
    </Router>
+   <ChatbotComponent/>
     </div>
   )
 }
